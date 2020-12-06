@@ -1,4 +1,0 @@
-calculate distance from white for each box and then sort the box result list and then check
-the top three boxes to make sure that they are the three alignment boxes.
-
-send message to jenny about dialIn, picture is not working
